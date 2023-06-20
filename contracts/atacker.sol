@@ -25,6 +25,4 @@ contract Attack {
         }
     }
 
-    receive() external payable {}
-
 }
